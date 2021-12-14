@@ -1,2 +1,2 @@
 # mqtt_messaging
-message across devices using mqtt protocol
+Message across devices using mqtt protocol and hive mqtt cloud.
